@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+不摆烂就是成功
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+不摸鱼也算成功
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[email](mailto:l2985077269@gmail.com)
